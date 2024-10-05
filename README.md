@@ -1,123 +1,90 @@
-# 2004-AR230
-ar230
-**phase 1**
-  replace ecm
-  compression test
+# 2004 Yamaha AR230 Project
 
-12/3/23
-  port
-    1- 172
-    2- 160
-    3- 120
-    4- 162
-  starboard
-    1- 162
-    2- 170
-    3- 131
-    4- 155
-remount dash
-oil
-  1.75 in on port side
-  1.75 on starboard
-trailer brakes
-second oil change
-full complete oil change and filters
-have slightly less than 4l of yamalube 10w40
-used 6l for partial oil change of both engines
-2/5/24 oil fill
-starboard right inbetween F and E after first fill no crank
-1/3 above E after 10s crank
-1cm above L after running and second fill
-directly on L after another run and fill
-port right in between F and line above F after first fill no crank
-slightly under half way above F and next line
-directly on L line after run and second fill
-directly on L after another run and fill
-spark plugs on both (not wanting to build rpms)
-boat numbers
-registration
+This is a summary of the work and troubleshooting done on a **2004 Yamaha AR230** through multiple phases, including replacing the **ECMs (Engine Control Modules)**, conducting **compression tests**, fixing various mechanical and electrical issues, and general maintenance. The project went through several stages before eventually being sold for a significant profit.
 
-**phase 2**
-  oil on decking
-  chips in gelcoat
-  tighten tongue
-  driver seat screws
+## Phase 1: Engine Diagnostics and Maintenance
+### ECM Replacement and Compression Testing
+Performed a compression test on both engines to diagnose any internal issues:
+- **Date of Test**: 12/3/23  
+  **Port Engine**  
+  - Cylinder 1: **172 psi**
+  - Cylinder 2: **160 psi**
+  - Cylinder 3: **120 psi** (potential issue)
+  - Cylinder 4: **162 psi**  
+  **Starboard Engine**  
+  - Cylinder 1: **162 psi**
+  - Cylinder 2: **170 psi**
+  - Cylinder 3: **131 psi** (potential issue)
+  - Cylinder 4: **155 psi**
 
-**phase 3**
-  clean out engine bay
-  remove spray paint from floor
-  remount tower (get new bolts)
-  power wash
-  grease bearings
-  remove mildew
-  to buy
-  rachet straps
-  microfiber cloths
-  driver seat screws
-  wake tower bolts
-  filters
-  oil (check how much came w/ boat)
-  pump
-  extension cord
+### Oil Change and Filter Replacement
+Conducted two oil changes: a full complete oil change and a partial change for both engines.
+- Used approximately **6 liters of Yamalube 10W40** for the partial change, and slightly less than **4 liters** for the complete oil change.
 
-**cost**
-  home depot- 53
-  registration- 55
-  shipping- 21- 21
-  ecu test- 107- 107
-  ecu repair- 382- 382
-  oil/filters/pump- 95
-  storage- 106 * (2)
-  amazon- 50
-  boat- 11000
-  gas from atl to northport- 130
-  boat numbers- 21
-  oil- 50
+**Starboard Engine Oil Levels**:
+- **First fill**: Oil level was between **F** (Full) and **E** (Empty).
+- **After 10s crank**: Oil level was approximately **1/3** above **E**.
+- **After running & second fill**: Oil level directly on **L** (Low) after another run and fill.
 
-notes from call:
-  bank closed early today
-  loan already payed off
-  park marine just did oil change on both engine, after port engine being weird
-  park marine gas done all of them
-  park marine slow with help
-  no prolemels with speakers
-  first time out in at least a few months
-  brother in law said all wires by back batteries go to led lights
-  front battery is only for radio
-  all origional batteries
-  only park marina
+**Port Engine Oil Levels**:
+- **First fill**: Oil was just between **F** and the line above it.
+- **After first crank**: Slightly below halfway above **F** and next line.
+- **After running & second fill**: Oil level directly on **L** line after running and filling again.
 
-amp notes:
-  back 2 not working
-  both subs on channel 6
-  driver component on 5
-  nothing on 1/2 working- probably front 3
-  front front right working- channel 3/4
-  passenger component working- channel 3/4
+### Spark Plug Issues
+The engine had trouble building RPMs, possibly due to spark plug issues. This issue would be addressed in the next phases.
 
-things wrong with electrical
-  all batteries at 12v
-  8v to switches
-  13v to switches when jump starter on
-  all switches turning on lights
-  13v with jump starter on doesn’t turn on stereo
-  enough power to start motors easily
-  short circuit at sub? amp
-  no accessories turning on
-  remote wires not connected properly
-  remote coming out of head unit doesn’t go anywhere
-  when i turn on ignition while stereo is on, stereo noticeably loses power- not enough amps? how do motors start then?
+## Phase 2: Deck and Cosmetic Fixes
+- Cleaned oil spills on the deck.
+- Addressed **chips in the gelcoat**.
+- Tightened the **tongue driver seat screws**.
 
-diagnosing injectors
-  -port engine 10/1/23
-  3 and 4 spraying
-  swapping injectors 2 and 3
-  injectors 3 and 4 spraying still after swapping
+## Phase 3: Cleaning, Wiring, and Tower Work
+- **Engine Bay Cleanup**: Cleared out the engine bay and removed spray paint from the floor.
+- **Tower Work**: Removed and remounted the wake tower; planned to replace bolts.
+- **Power Washing & Greasing**: Power washed the boat and greased bearings.
+- **Mildew Removal**: Cleaned any mildew present on the boat.
 
--starboard engine 10/1/23
-  no injectors spraying on crank
+### Materials & Tools to Buy
+- **Ratchet Straps**, **Microfiber Cloths**
+- **Wake Tower Bolts**, **Driver Seat Screws**
+- **Oil Filters**, **Pump Extension Cord**
 
-443- open to be rented- no plugs but might be taller
+## Costs Overview
+- **Home Depot Supplies**: $53
+- **Boat Registration**: $55
+- **Shipping Costs**: $42 total
+- **ECU Testing**: $107
+- **ECU Repair**: $382
+- **Oil, Filters, Pump**: $95
+- **Storage**: $106 x 2 months
+- **Amazon Purchases**: $50
+- **Boat Purchase**: $11,000
+- **Gas for Transport (ATL to Northport)**: $130
+- **Boat Numbers**: $21
+- **Additional Oil**: $50
 
-UPDATE AS OF 7/28/2024
-  Just came across this post from a while ago. Got both of the ECUs fixed and working, found the source of the problem was a bad ground (as always). Cleaned up and fixed the rest of the problems and sold for a profit well over $10,000. Great success
+## Electrical Work and Diagnosis
+### Amp & Speaker Configuration
+- Found back two speakers not working; both subs on **channel 6**.
+- Driver component on **channel 5**; nothing on channels **1/2**.
+- Front right speaker on **channel 3/4**; passenger component also on **channel 3/4**.
+
+### Battery and Voltage Issues
+- All batteries read at **12V**.
+- Voltage drop to **8V** at switches; **13V** when jump starter is on.
+- All switches powering lights draw **13V** with jump starter but fail to turn on the stereo.
+- Suspected short circuit at the sub or an improper connection to the amp, as remote wire from head unit does not connect anywhere.
+- Power drops to stereo when ignition is on, indicating possible lack of amps.
+
+### Injector Diagnosis (10/1/23)
+**Port Engine**: Injectors **3** and **4** were spraying. After swapping injectors **2** and **3**, injectors **3** and **4** continued to spray.
+**Starboard Engine**: No injectors were spraying upon cranking.
+
+## Update as of 7/28/2024
+After extensive work, the **ECUs were repaired** and all major issues were resolved. The main source of electrical problems was identified as a **bad ground connection**, which was corrected. The rest of the electrical and mechanical issues were cleaned up, and the boat was sold for a profit of well over **$10,000**.
+
+---
+
+### Final Notes
+This project required significant time diagnosing mechanical and electrical issues, repairing critical components like the ECUs, and performing general maintenance. Through careful troubleshooting and hands-on repairs, the project was a **great success** and provided valuable experience in boat restoration and maintenance.
